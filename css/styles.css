@@ -876,7 +876,7 @@ body {
 .checkbox-input:checked + .checkbox-label::before {
     background-color: var(--accent-color);  
     border-color: var(--accent-color);
-    background-image: url('/images/icon-check.svg');
+    background-image: url('../images/icon-check.svg');
     background-position: center;
 }
 
